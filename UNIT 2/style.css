@@ -1,0 +1,8 @@
+.external-style {
+    color: green;
+    font-size: 18px;
+    border: 2px solid green;
+    padding: 10px;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
